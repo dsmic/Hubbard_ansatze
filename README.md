@@ -3,7 +3,7 @@ We implement some ansätze for the Hubbard model: Hidden Fermion and Pfaffian wi
 
 The Hubbard model with periodic boundary conditions on a 4x4 Lattice with 7 up and 7 down electrons and U=8 is investigated, as it is close to possible superconductivity.
 
-In the Hubbard4x4_hf_pf_combine jupyter notebook we investigate Hidden Fermion and Pfaffian approach. As an experiment we combine both approaches. This was done on a gtx1070ti, so it can actually be done on laptop too.
+In the Hubbard4x4_7u7d_hf_pf_combine jupyter notebook we investigate Hidden Fermion and Pfaffian approach. As an experiment we combine both approaches. This was done on a gtx1070ti, so it can actually be done on laptop too.
 
 ## Results
 
